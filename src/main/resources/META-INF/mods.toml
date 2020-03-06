@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+[[mods]]
+modId="template"
+version="${file.jarVersion}" 
+displayName="Template"
+description='''
+'''
